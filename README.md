@@ -3,7 +3,7 @@
 - 🐶 Other interests: attending gigs, books, travel, design, hiking, surfing
 - 🌱 I’m currently learning HTML/CSS, Java, C# 
 - 💞️ I’m looking to collaborate on MS Teams, Discord
-- 📫 s3893858@student.rmit.edu.au
+- 📫 yvette.0777@gmail.com
 
 <!---
 vet7/vet7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
