@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yvette :)
-- 👀 I’m interested in IT: programming, software development, AI, VR, gaming
+- 👀 I’m interested in programming, software development, AI, VR, gaming
 - 🐶 Other interests: attending gigs, books, travel, design, hiking, surfing
 - 🌱 I’m currently learning HTML/CSS, Ruby 
 - 💞️ I’m looking to collaborate on MS Teams, Discord
